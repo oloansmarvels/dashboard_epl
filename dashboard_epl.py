@@ -298,8 +298,8 @@ st.markdown("""
 # ============================
 @st.cache_data
 def load_data():
-    preds = pd.read_csv("D:\CAPSTONE PROJECT\EPL_2024_2025_Binary_Predictions.csv")
-    actual_df = pd.read_csv("D:\CAPSTONE PROJECT\DATA FINAL EPL 2010-2025.csv", parse_dates=['Date'])
+    preds = pd.read_csv("EPL_2024_2025_Binary_Predictions.csv")
+    actual_df = pd.read_csv("DATA FINAL EPL 2010-2025.csv", parse_dates=['Date'])
 
     actual_df = actual_df[actual_df['FTR'] != 'D']
     actual_df = actual_df[(actual_df['Date'] >= '2024-08-01') & (actual_df['Date'] <= '2025-05-31')]
