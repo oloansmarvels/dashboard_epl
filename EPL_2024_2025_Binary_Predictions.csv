@@ -1,0 +1,254 @@
+Date,HomeTeam,AwayTeam,Actual,Predicted
+2024-08-16,Man United,Fulham,Home Win,Home Win
+2024-08-17,Newcastle,Southampton,Home Win,Home Win
+2024-08-17,West Ham,Aston Villa,Away Win,Home Win
+2024-08-17,Arsenal,Wolves,Home Win,Home Win
+2024-08-17,Everton,Brighton,Away Win,Home Win
+2024-08-18,Brentford,Crystal Palace,Home Win,Home Win
+2024-08-18,Chelsea,Man City,Away Win,Home Win
+2024-08-24,Tottenham,Everton,Home Win,Home Win
+2024-08-24,Aston Villa,Arsenal,Away Win,Home Win
+2024-08-24,Southampton,Nott'm Forest,Away Win,Home Win
+2024-08-24,Fulham,Leicester,Home Win,Home Win
+2024-08-24,Brighton,Man United,Home Win,Home Win
+2024-08-24,Crystal Palace,West Ham,Away Win,Home Win
+2024-08-25,Liverpool,Brentford,Home Win,Home Win
+2024-08-25,Wolves,Chelsea,Away Win,Home Win
+2024-08-31,West Ham,Man City,Away Win,Home Win
+2024-08-31,Leicester,Aston Villa,Away Win,Home Win
+2024-08-31,Everton,Bournemouth,Away Win,Home Win
+2024-08-31,Brentford,Southampton,Home Win,Home Win
+2024-09-01,Man United,Liverpool,Away Win,Home Win
+2024-09-01,Newcastle,Tottenham,Home Win,Home Win
+2024-09-14,Man City,Brentford,Home Win,Home Win
+2024-09-14,Liverpool,Nott'm Forest,Away Win,Home Win
+2024-09-14,Aston Villa,Everton,Home Win,Home Win
+2024-09-14,Southampton,Man United,Away Win,Home Win
+2024-09-14,Bournemouth,Chelsea,Away Win,Home Win
+2024-09-15,Tottenham,Arsenal,Away Win,Home Win
+2024-09-15,Wolves,Newcastle,Away Win,Home Win
+2024-09-21,Fulham,Newcastle,Home Win,Home Win
+2024-09-21,Aston Villa,Wolves,Home Win,Home Win
+2024-09-21,West Ham,Chelsea,Away Win,Home Win
+2024-09-21,Liverpool,Bournemouth,Home Win,Home Win
+2024-09-21,Tottenham,Brentford,Home Win,Home Win
+2024-09-28,Wolves,Liverpool,Away Win,Home Win
+2024-09-28,Everton,Crystal Palace,Home Win,Home Win
+2024-09-28,Arsenal,Leicester,Home Win,Home Win
+2024-09-28,Nott'm Forest,Fulham,Away Win,Home Win
+2024-09-28,Chelsea,Brighton,Home Win,Home Win
+2024-09-29,Man United,Tottenham,Away Win,Home Win
+2024-09-30,Bournemouth,Southampton,Home Win,Home Win
+2024-10-05,Man City,Fulham,Home Win,Home Win
+2024-10-05,Leicester,Bournemouth,Home Win,Home Win
+2024-10-05,Arsenal,Southampton,Home Win,Home Win
+2024-10-05,Crystal Palace,Liverpool,Away Win,Home Win
+2024-10-05,Brentford,Wolves,Home Win,Home Win
+2024-10-06,Brighton,Tottenham,Home Win,Home Win
+2024-10-19,Southampton,Leicester,Away Win,Home Win
+2024-10-19,Tottenham,West Ham,Home Win,Home Win
+2024-10-19,Fulham,Aston Villa,Away Win,Home Win
+2024-10-19,Man United,Brentford,Home Win,Home Win
+2024-10-19,Newcastle,Brighton,Away Win,Home Win
+2024-10-19,Bournemouth,Arsenal,Home Win,Home Win
+2024-10-20,Wolves,Man City,Away Win,Home Win
+2024-10-20,Liverpool,Chelsea,Home Win,Home Win
+2024-10-21,Nott'm Forest,Crystal Palace,Home Win,Home Win
+2024-10-25,Leicester,Nott'm Forest,Away Win,Home Win
+2024-10-26,Man City,Southampton,Home Win,Home Win
+2024-10-27,Chelsea,Newcastle,Home Win,Home Win
+2024-10-27,Crystal Palace,Tottenham,Home Win,Home Win
+2024-10-27,West Ham,Man United,Home Win,Home Win
+2024-11-02,Southampton,Everton,Home Win,Home Win
+2024-11-02,Nott'm Forest,West Ham,Home Win,Home Win
+2024-11-02,Liverpool,Brighton,Home Win,Home Win
+2024-11-02,Bournemouth,Man City,Home Win,Home Win
+2024-11-02,Newcastle,Arsenal,Home Win,Home Win
+2024-11-03,Tottenham,Aston Villa,Home Win,Home Win
+2024-11-04,Fulham,Brentford,Home Win,Home Win
+2024-11-09,Brentford,Bournemouth,Home Win,Home Win
+2024-11-09,Wolves,Southampton,Home Win,Home Win
+2024-11-09,Brighton,Man City,Home Win,Home Win
+2024-11-09,Liverpool,Aston Villa,Home Win,Home Win
+2024-11-09,Crystal Palace,Fulham,Away Win,Home Win
+2024-11-10,Nott'm Forest,Newcastle,Away Win,Home Win
+2024-11-10,Man United,Leicester,Home Win,Home Win
+2024-11-23,Fulham,Wolves,Away Win,Home Win
+2024-11-23,Leicester,Chelsea,Away Win,Home Win
+2024-11-23,Arsenal,Nott'm Forest,Home Win,Home Win
+2024-11-23,Bournemouth,Brighton,Away Win,Home Win
+2024-11-23,Man City,Tottenham,Away Win,Home Win
+2024-11-24,Southampton,Liverpool,Away Win,Home Win
+2024-11-25,Newcastle,West Ham,Away Win,Home Win
+2024-11-30,Wolves,Bournemouth,Away Win,Away Win
+2024-11-30,Brentford,Leicester,Home Win,Away Win
+2024-11-30,West Ham,Arsenal,Away Win,Away Win
+2024-12-01,Chelsea,Aston Villa,Home Win,Home Win
+2024-12-01,Man United,Everton,Home Win,Home Win
+2024-12-01,Liverpool,Man City,Home Win,Home Win
+2024-12-03,Leicester,West Ham,Home Win,Home Win
+2024-12-04,Man City,Nott'm Forest,Home Win,Home Win
+2024-12-04,Southampton,Chelsea,Away Win,Home Win
+2024-12-04,Arsenal,Man United,Home Win,Home Win
+2024-12-04,Aston Villa,Brentford,Home Win,Home Win
+2024-12-04,Everton,Wolves,Home Win,Home Win
+2024-12-05,Fulham,Brighton,Home Win,Home Win
+2024-12-05,Bournemouth,Tottenham,Home Win,Home Win
+2024-12-07,Aston Villa,Southampton,Home Win,Home Win
+2024-12-07,Man United,Nott'm Forest,Away Win,Home Win
+2024-12-07,Brentford,Newcastle,Home Win,Home Win
+2024-12-08,Tottenham,Chelsea,Away Win,Home Win
+2024-12-09,West Ham,Wolves,Home Win,Home Win
+2024-12-14,Newcastle,Leicester,Home Win,Home Win
+2024-12-14,Nott'm Forest,Aston Villa,Home Win,Home Win
+2024-12-15,Man City,Man United,Away Win,Home Win
+2024-12-15,Brighton,Crystal Palace,Away Win,Home Win
+2024-12-15,Chelsea,Brentford,Home Win,Home Win
+2024-12-15,Southampton,Tottenham,Away Win,Home Win
+2024-12-21,Aston Villa,Man City,Home Win,Home Win
+2024-12-21,Brentford,Nott'm Forest,Away Win,Home Win
+2024-12-21,Crystal Palace,Arsenal,Away Win,Home Win
+2024-12-22,Man United,Bournemouth,Away Win,Home Win
+2024-12-22,Tottenham,Liverpool,Away Win,Home Win
+2024-12-22,Leicester,Wolves,Away Win,Home Win
+2024-12-26,Liverpool,Leicester,Home Win,Home Win
+2024-12-26,Wolves,Man United,Home Win,Home Win
+2024-12-26,Southampton,West Ham,Away Win,Home Win
+2024-12-26,Nott'm Forest,Tottenham,Home Win,Home Win
+2024-12-26,Chelsea,Fulham,Away Win,Home Win
+2024-12-26,Newcastle,Aston Villa,Home Win,Home Win
+2024-12-29,Everton,Nott'm Forest,Away Win,Home Win
+2024-12-29,West Ham,Liverpool,Away Win,Home Win
+2024-12-29,Crystal Palace,Southampton,Home Win,Home Win
+2024-12-29,Leicester,Man City,Away Win,Home Win
+2024-12-30,Man United,Newcastle,Away Win,Away Win
+2025-01-01,Brentford,Arsenal,Away Win,Home Win
+2025-01-04,Southampton,Brentford,Away Win,Home Win
+2025-01-04,Man City,West Ham,Home Win,Home Win
+2025-01-04,Bournemouth,Everton,Home Win,Home Win
+2025-01-04,Aston Villa,Leicester,Home Win,Home Win
+2025-01-04,Tottenham,Newcastle,Away Win,Home Win
+2025-01-06,Wolves,Nott'm Forest,Away Win,Home Win
+2025-01-14,West Ham,Fulham,Home Win,Home Win
+2025-01-15,Arsenal,Tottenham,Home Win,Home Win
+2025-01-15,Everton,Aston Villa,Away Win,Home Win
+2025-01-15,Newcastle,Wolves,Home Win,Home Win
+2025-01-15,Leicester,Crystal Palace,Away Win,Home Win
+2025-01-16,Man United,Southampton,Home Win,Home Win
+2025-01-18,West Ham,Crystal Palace,Away Win,Home Win
+2025-01-18,Leicester,Fulham,Away Win,Home Win
+2025-01-18,Brentford,Liverpool,Away Win,Home Win
+2025-01-18,Newcastle,Bournemouth,Away Win,Home Win
+2025-01-19,Nott'm Forest,Southampton,Home Win,Home Win
+2025-01-19,Everton,Tottenham,Home Win,Home Win
+2025-01-19,Man United,Brighton,Away Win,Home Win
+2025-01-19,Ipswich,Man City,Away Win,Home Win
+2025-01-20,Chelsea,Wolves,Home Win,Home Win
+2025-01-25,Bournemouth,Nott'm Forest,Home Win,Home Win
+2025-01-25,Wolves,Arsenal,Away Win,Home Win
+2025-01-25,Brighton,Everton,Away Win,Home Win
+2025-01-25,Liverpool,Ipswich,Home Win,Home Win
+2025-01-25,Southampton,Newcastle,Away Win,Home Win
+2025-01-25,Man City,Chelsea,Home Win,Home Win
+2025-01-26,Crystal Palace,Brentford,Away Win,Home Win
+2025-01-26,Tottenham,Leicester,Away Win,Home Win
+2025-01-26,Fulham,Man United,Away Win,Home Win
+2025-02-01,Wolves,Aston Villa,Home Win,Home Win
+2025-02-01,Newcastle,Fulham,Away Win,Home Win
+2025-02-01,Everton,Leicester,Home Win,Home Win
+2025-02-01,Bournemouth,Liverpool,Away Win,Home Win
+2025-02-01,Nott'm Forest,Brighton,Home Win,Home Win
+2025-02-02,Brentford,Tottenham,Away Win,Home Win
+2025-02-02,Arsenal,Man City,Home Win,Home Win
+2025-02-02,Man United,Crystal Palace,Away Win,Home Win
+2025-02-03,Chelsea,West Ham,Home Win,Home Win
+2025-02-14,Brighton,Chelsea,Home Win,Home Win
+2025-02-15,Southampton,Bournemouth,Away Win,Home Win
+2025-02-15,Leicester,Arsenal,Away Win,Home Win
+2025-02-15,Fulham,Nott'm Forest,Home Win,Home Win
+2025-02-15,Man City,Newcastle,Home Win,Home Win
+2025-02-15,West Ham,Brentford,Away Win,Home Win
+2025-02-15,Crystal Palace,Everton,Away Win,Home Win
+2025-02-16,Liverpool,Wolves,Home Win,Home Win
+2025-02-16,Tottenham,Man United,Home Win,Home Win
+2025-02-21,Leicester,Brentford,Away Win,Home Win
+2025-02-22,Southampton,Brighton,Away Win,Home Win
+2025-02-22,Arsenal,West Ham,Away Win,Home Win
+2025-02-22,Bournemouth,Wolves,Away Win,Away Win
+2025-02-22,Fulham,Crystal Palace,Away Win,Away Win
+2025-02-22,Aston Villa,Chelsea,Home Win,Home Win
+2025-02-22,Ipswich,Tottenham,Away Win,Home Win
+2025-02-23,Newcastle,Nott'm Forest,Home Win,Home Win
+2025-02-23,Man City,Liverpool,Away Win,Home Win
+2025-02-25,Brighton,Bournemouth,Home Win,Home Win
+2025-02-25,Crystal Palace,Aston Villa,Home Win,Home Win
+2025-02-25,Wolves,Fulham,Away Win,Home Win
+2025-02-25,Chelsea,Southampton,Home Win,Home Win
+2025-02-26,Liverpool,Newcastle,Home Win,Home Win
+2025-02-26,Tottenham,Man City,Away Win,Home Win
+2025-02-27,West Ham,Leicester,Home Win,Home Win
+2025-03-08,Liverpool,Southampton,Home Win,Home Win
+2025-03-08,Brentford,Aston Villa,Away Win,Home Win
+2025-03-08,Brighton,Fulham,Home Win,Home Win
+2025-03-08,Crystal Palace,Ipswich,Home Win,Home Win
+2025-03-08,Nott'm Forest,Man City,Home Win,Home Win
+2025-03-09,Chelsea,Leicester,Home Win,Home Win
+2025-03-10,West Ham,Newcastle,Away Win,Home Win
+2025-03-15,Southampton,Wolves,Away Win,Home Win
+2025-03-15,Ipswich,Nott'm Forest,Away Win,Home Win
+2025-03-15,Bournemouth,Brentford,Away Win,Home Win
+2025-03-16,Arsenal,Chelsea,Home Win,Home Win
+2025-03-16,Fulham,Tottenham,Home Win,Home Win
+2025-03-16,Leicester,Man United,Away Win,Home Win
+2025-04-01,Nott'm Forest,Man United,Home Win,Home Win
+2025-04-01,Wolves,West Ham,Home Win,Home Win
+2025-04-01,Arsenal,Fulham,Home Win,Home Win
+2025-04-02,Bournemouth,Ipswich,Away Win,Home Win
+2025-04-02,Man City,Leicester,Home Win,Home Win
+2025-04-02,Newcastle,Brentford,Home Win,Home Win
+2025-04-02,Brighton,Aston Villa,Away Win,Home Win
+2025-04-02,Liverpool,Everton,Home Win,Home Win
+2025-04-03,Chelsea,Tottenham,Home Win,Home Win
+2025-04-05,Crystal Palace,Brighton,Home Win,Home Win
+2025-04-05,Aston Villa,Nott'm Forest,Home Win,Home Win
+2025-04-05,Ipswich,Wolves,Away Win,Home Win
+2025-04-06,Fulham,Liverpool,Home Win,Home Win
+2025-04-06,Tottenham,Southampton,Home Win,Home Win
+2025-04-07,Leicester,Newcastle,Away Win,Home Win
+2025-04-12,Nott'm Forest,Everton,Away Win,Home Win
+2025-04-12,Man City,Crystal Palace,Home Win,Home Win
+2025-04-12,Southampton,Aston Villa,Away Win,Home Win
+2025-04-13,Newcastle,Man United,Home Win,Home Win
+2025-04-13,Wolves,Tottenham,Home Win,Home Win
+2025-04-13,Liverpool,West Ham,Home Win,Home Win
+2025-04-14,Bournemouth,Fulham,Home Win,Home Win
+2025-04-16,Newcastle,Crystal Palace,Home Win,Home Win
+2025-04-19,Aston Villa,Newcastle,Home Win,Home Win
+2025-04-19,Brentford,Brighton,Home Win,Home Win
+2025-04-19,Everton,Man City,Away Win,Home Win
+2025-04-20,Ipswich,Arsenal,Away Win,Home Win
+2025-04-20,Fulham,Chelsea,Away Win,Home Win
+2025-04-20,Man United,Wolves,Away Win,Home Win
+2025-04-20,Leicester,Liverpool,Away Win,Home Win
+2025-04-21,Tottenham,Nott'm Forest,Away Win,Home Win
+2025-04-22,Man City,Aston Villa,Home Win,Home Win
+2025-04-26,Chelsea,Everton,Home Win,Home Win
+2025-04-26,Brighton,West Ham,Home Win,Home Win
+2025-04-26,Newcastle,Ipswich,Home Win,Home Win
+2025-04-26,Southampton,Fulham,Away Win,Home Win
+2025-04-26,Wolves,Leicester,Home Win,Home Win
+2025-04-27,Liverpool,Tottenham,Home Win,Home Win
+2025-05-01,Nott'm Forest,Brentford,Away Win,Home Win
+2025-05-02,Man City,Wolves,Home Win,Home Win
+2025-05-03,Leicester,Southampton,Home Win,Home Win
+2025-05-03,Arsenal,Bournemouth,Away Win,Home Win
+2025-05-03,Aston Villa,Fulham,Home Win,Home Win
+2025-05-04,Brentford,Man United,Home Win,Home Win
+2025-05-04,Chelsea,Liverpool,Home Win,Home Win
+2025-05-10,Fulham,Everton,Away Win,Home Win
+2025-05-10,Bournemouth,Aston Villa,Away Win,Home Win
+2025-05-10,Wolves,Brighton,Away Win,Home Win
+2025-05-10,Ipswich,Brentford,Away Win,Home Win
+2025-05-11,Man United,West Ham,Away Win,Home Win
+2025-05-11,Tottenham,Crystal Palace,Away Win,Home Win
+2025-05-11,Newcastle,Chelsea,Home Win,Home Win
